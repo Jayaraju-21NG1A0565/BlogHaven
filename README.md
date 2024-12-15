@@ -96,7 +96,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any queries or feedback, feel free to reach out:
 - **Email**: yaddanapallijayaraju@gmail.com
-- **GitHub**: https://github.com/21NG1A0565/
+- **GitHub**: https://github.com/jayaraju-21NG1A0565/
 
 ---
 
